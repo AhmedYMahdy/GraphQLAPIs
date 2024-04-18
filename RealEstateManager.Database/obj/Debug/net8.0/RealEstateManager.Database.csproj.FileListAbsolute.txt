@@ -1,0 +1,14 @@
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\bin\Debug\net8.0\RealEstateManager.Database.deps.json
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\bin\Debug\net8.0\RealEstateManager.Database.runtimeconfig.json
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\bin\Debug\net8.0\RealEstateManager.Database.dll
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\bin\Debug\net8.0\RealEstateManager.Database.pdb
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\RealEstateManager.Database.csproj.AssemblyReference.cache
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\RealEstateManager.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\RealEstateManager.Database.AssemblyInfoInputs.cache
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\RealEstateManager.Database.AssemblyInfo.cs
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\RealEstateManager.Database.csproj.CoreCompileInputs.cache
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\RealEstateManager.Database.dll
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\refint\RealEstateManager.Database.dll
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\RealEstateManager.Database.pdb
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\RealEstateManager.Database.genruntimeconfig.cache
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\ref\RealEstateManager.Database.dll

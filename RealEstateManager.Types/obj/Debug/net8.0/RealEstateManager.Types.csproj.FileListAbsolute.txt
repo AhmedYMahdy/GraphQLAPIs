@@ -1,0 +1,11 @@
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Types\bin\Debug\net8.0\RealEstateManager.Types.deps.json
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Types\bin\Debug\net8.0\RealEstateManager.Types.dll
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Types\bin\Debug\net8.0\RealEstateManager.Types.pdb
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Types\obj\Debug\net8.0\RealEstateManager.Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Types\obj\Debug\net8.0\RealEstateManager.Types.AssemblyInfoInputs.cache
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Types\obj\Debug\net8.0\RealEstateManager.Types.AssemblyInfo.cs
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Types\obj\Debug\net8.0\RealEstateManager.Types.csproj.CoreCompileInputs.cache
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Types\obj\Debug\net8.0\RealEstateManager.Types.dll
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Types\obj\Debug\net8.0\refint\RealEstateManager.Types.dll
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Types\obj\Debug\net8.0\RealEstateManager.Types.pdb
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Types\obj\Debug\net8.0\ref\RealEstateManager.Types.dll
