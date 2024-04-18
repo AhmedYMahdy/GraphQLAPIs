@@ -9,3 +9,4 @@ C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Types\obj\Debug\
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Types\obj\Debug\net8.0\refint\RealEstateManager.Types.dll
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Types\obj\Debug\net8.0\RealEstateManager.Types.pdb
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Types\obj\Debug\net8.0\ref\RealEstateManager.Types.dll
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Types\obj\Debug\net8.0\RealEstateManager.Types.sourcelink.json

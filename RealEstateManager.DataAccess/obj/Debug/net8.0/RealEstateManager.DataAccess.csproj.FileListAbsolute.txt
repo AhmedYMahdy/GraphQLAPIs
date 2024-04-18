@@ -9,3 +9,4 @@ C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.DataAccess\obj\D
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.DataAccess\obj\Debug\net8.0\refint\RealEstateManager.DataAccess.dll
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.DataAccess\obj\Debug\net8.0\RealEstateManager.DataAccess.pdb
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.DataAccess\obj\Debug\net8.0\ref\RealEstateManager.DataAccess.dll
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.DataAccess\obj\Debug\net8.0\RealEstateManager.DataAccess.sourcelink.json

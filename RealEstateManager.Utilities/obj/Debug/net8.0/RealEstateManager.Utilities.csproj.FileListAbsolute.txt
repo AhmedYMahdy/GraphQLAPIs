@@ -9,3 +9,4 @@ C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\De
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\refint\RealEstateManager.Utilities.dll
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.pdb
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\ref\RealEstateManager.Utilities.dll
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.sourcelink.json
