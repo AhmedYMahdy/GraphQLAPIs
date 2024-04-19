@@ -10,6 +10,7 @@
         "dependencies": {
           "GraphQL": "3.1.5",
           "GraphQL.Server.Transports.AspNetCore": "4.3.1",
+          "RealEstateManager.DataAccess": "1.0.0",
           "RealEstateManager.Database": "1.0.0",
           "System.Reactive.Reference": "4.4.0.0"
         },
@@ -543,6 +544,14 @@
           }
         }
       },
+      "RealEstateManager.DataAccess/1.0.0": {
+        "dependencies": {
+          "RealEstateManager.Database": "1.0.0"
+        },
+        "runtime": {
+          "RealEstateManager.DataAccess.dll": {}
+        }
+      },
       "RealEstateManager.Database/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.29",
@@ -968,6 +977,11 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
+    },
+    "RealEstateManager.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "RealEstateManager.Database/1.0.0": {
       "type": "project",

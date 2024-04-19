@@ -16,4 +16,16 @@ public class PropertyRepository : IPropertyRepository
     {
         return _context.Properties.ToList();
     }
+
+    public Property GetPropertyById(int id)
+    {
+        return _context.Properties.SingleOrDefault(a => a.Id == id);
+    }
+
+    public Property Add(Property property)
+    {
+        _context.Properties.Add(property);
+        _context.SaveChanges();
+        return property;
+    }
 }

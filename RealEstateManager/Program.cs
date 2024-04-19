@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using RealEstateManager;
 using RealEstateManager.DataAccess.Repositories;
 using RealEstateManager.Database;
+using RealEstateManager.Mutation;
 using RealEstateManager.Queries;
 using RealEstateManager.Schema;
 using RealEstateManager.Types;
@@ -31,8 +32,11 @@ builder.Services.AddGraphQL()
     .AddGraphTypes(typeof(RealEstateSchema), ServiceLifetime.Scoped);
 
 builder.Services.AddScoped<PropertyQuery>();
-builder.Services.AddSingleton<PropertyType>();
+builder.Services.AddScoped<PropertyMutation>();
 
+builder.Services.AddScoped<PropertyType>();
+builder.Services.AddScoped<PropertyInputType>();
+builder.Services.AddScoped<PaymentType>();
 
 var app = builder.Build();
 

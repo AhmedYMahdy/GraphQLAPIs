@@ -1,4 +1,5 @@
-﻿using RealEstateManager.Queries;
+﻿using RealEstateManager.Mutation;
+using RealEstateManager.Queries;
 
 namespace RealEstateManager.Schema;
 
@@ -8,5 +9,6 @@ public class RealEstateSchema : GraphQL.Types.Schema
         : base(sp)
     {
         Query = sp.GetRequiredService<PropertyQuery>();
+        Mutation = sp.GetRequiredService<PropertyMutation>();
     }
 }
