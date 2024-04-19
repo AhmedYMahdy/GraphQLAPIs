@@ -66,3 +66,9 @@ Version.cpp
 /RealEstateManager.Utilities/obj/RealEstateManager.Utilities.csproj.nuget.g.props
 /RealEstateManager.Utilities/obj/RealEstateManager.Utilities.csproj.nuget.dgspec.json
 /RealEstateManager.Utilities/obj/project.assets.json
+/RealEstateManager/bin/Debug/net6.0/RealEstateManager.deps.json
+/RealEstateManager/obj/Debug/net6.0/RealEstateManager.sourcelink.json
+/RealEstateManager/obj/project.assets.json
+/RealEstateManager.Types/obj/Debug/net6.0/RealEstateManager.Types.csproj.FileListAbsolute.txt
+/RealEstateManager.Types/obj/RealEstateManager.Types.csproj.nuget.dgspec.json
+/RealEstateManager.DataAccess/obj/Debug/net6.0/RealEstateManager.DataAccess.sourcelink.json
