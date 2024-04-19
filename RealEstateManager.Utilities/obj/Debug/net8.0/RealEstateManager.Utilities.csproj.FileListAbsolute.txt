@@ -1,12 +1,13 @@
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\bin\Debug\net8.0\RealEstateManager.Utilities.deps.json
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\bin\Debug\net8.0\RealEstateManager.Utilities.dll
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\bin\Debug\net8.0\RealEstateManager.Utilities.pdb
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.csproj.AssemblyReference.cache
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.AssemblyInfoInputs.cache
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.AssemblyInfo.cs
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.sourcelink.json
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.dll
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\refint\RealEstateManager.Utilities.dll
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.pdb
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\ref\RealEstateManager.Utilities.dll
-C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.sourcelink.json

@@ -7,6 +7,7 @@ C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Deb
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\RealEstateManager.Database.AssemblyInfoInputs.cache
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\RealEstateManager.Database.AssemblyInfo.cs
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\RealEstateManager.Database.csproj.CoreCompileInputs.cache
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\RealEstateManager.Database.sourcelink.json
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\RealEstateManager.Database.dll
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\refint\RealEstateManager.Database.dll
 C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Database\obj\Debug\net8.0\RealEstateManager.Database.pdb

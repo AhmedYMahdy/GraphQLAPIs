@@ -1,0 +1,16 @@
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\bin\Debug\net6.0\RealEstateManager.Utilities.deps.json
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\bin\Debug\net6.0\RealEstateManager.Utilities.dll
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\bin\Debug\net6.0\RealEstateManager.Utilities.pdb
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net6.0\RealEstateManager.Utilities.csproj.AssemblyReference.cache
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net6.0\RealEstateManager.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net6.0\RealEstateManager.Utilities.AssemblyInfoInputs.cache
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net6.0\RealEstateManager.Utilities.AssemblyInfo.cs
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net6.0\RealEstateManager.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net6.0\RealEstateManager.Utilities.sourcelink.json
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net6.0\RealEstateManager.Utilities.dll
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net6.0\refint\RealEstateManager.Utilities.dll
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net6.0\RealEstateManager.Utilities.pdb
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net6.0\ref\RealEstateManager.Utilities.dll
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\bin\Debug\net6.0\System.Reactive.xml
+C:\Users\aymah\source\repos\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net6.0\RealEsta.BFD6AD65.Up2Date
